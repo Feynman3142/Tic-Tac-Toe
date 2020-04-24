@@ -13,7 +13,10 @@ Difficulty: Beginner
 * Validation of user input at every point (*obviously included but it took me time so I'm mentioning it!*)
 
 ### Demonstration
+
+
 ![Demo](media/demo.gif)
+
 
 ### Dependencies
 
